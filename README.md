@@ -1,5 +1,5 @@
 # Terp Network Testnet / athena-2
-Gitopia nodenin yanına kurarsanız port çakışması oluyor. Biliyorsanız portları değiştirirsiniz. Bilmeyenler gitopia node yanına kurmasın.
+Minimum gereksinim 3CPU 4RAM 80GB. Gitopia nodenin yanına kurarsanız port çakışması oluyor. Biliyorsanız portları değiştirirsiniz. Bilmeyenler gitopia node yanına kurmasın.
 
 ## kurulum script
 ```
