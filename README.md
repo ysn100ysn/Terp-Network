@@ -61,12 +61,13 @@ sudo journalctl -u terpd -f --no-hostname -o cat
 ```
 terpd keys add $WALLET
 
-yada va olan cüzdanı kullanma
+yada var olan cüzdanı kullanma
 terpd keys add $WALLET --recover
 
 dc den faucet terpx ve persyx  alıyoruz.
 
-## validatör oluşturma
+
+```
 
 terpd tx staking create-validator \
 --amount=1000000uterpx \
