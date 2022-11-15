@@ -1,5 +1,5 @@
 # Terp-testnet-2
-Gitopia nodenin yanına kurmayın port çakışması oluyor.
+Gitopia nodenin yanına kurarsanız port çakışması oluyor. Biliyorsanız portları değiştirsiniz. Bilmeyenler gitopia yanına kurmasın.
 
 ## kurulum script
 ```
