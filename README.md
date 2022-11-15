@@ -1,4 +1,5 @@
 # Terp-testnet-2
+Gitopia nodenin yanına kurmayın port çakışması oluyor.
 
 ## kurulum script
 ```
