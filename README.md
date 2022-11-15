@@ -56,11 +56,11 @@ sudo journalctl -u terpd -f --no-hostname -o cat
 ```
 
 ## cüzdan oluşturma
-yeni cüzdan oluşturma (kelimeleri kaydetmeyi unutmayın!)
+yeni cüzdan oluşturma, $WALLET yerine cüzdan ismi yazın. (kelimeleri kaydetmeyi unutmayın!)
 ```
 terpd keys add $WALLET
 ```
-yada var olan cüzdanı kullanma
+yada var olan cüzdanı kullanma, $WALLET yerine cüzdan ismi yazın.
 ```
 terpd keys add $WALLET --recover
 ```
