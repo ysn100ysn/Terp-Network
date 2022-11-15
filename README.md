@@ -66,7 +66,7 @@ terpd keys add $WALLET --recover
 ```
 dc den faucet terpx ve persyx  alıyoruz.
 
-## validator olusturma
+## validatör olusturma
 validatör ve cüzdan adınızı xxxxxxx olan yere yazın
 ```
 terpd tx staking create-validator \
