@@ -60,12 +60,12 @@ sudo journalctl -u terpd -f --no-hostname -o cat
 ## cüzdan oluşturma
 yeni cüzdan oluşturma
 ```
-##terpd keys add $WALLET
+terpd keys add $WALLET
 ```
 yada var olan cüzdanı kullanma
 ```
 
-##terpd keys add $WALLET --recover
+terpd keys add $WALLET --recover
 ```
 dc den faucet terpx ve persyx  alıyoruz.
 
