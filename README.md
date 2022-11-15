@@ -32,7 +32,7 @@ sudo systemctl restart terpd
 sudo journalctl -u terpd -f --no-hostname -o cat
 ```
 
-## snap
+## snapshot
 ```
 sudo apt update
 sudo apt install lz4 -y
