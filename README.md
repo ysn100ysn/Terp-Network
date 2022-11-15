@@ -35,7 +35,6 @@ sudo journalctl -u terpd -f --no-hostname -o cat
 
 ## snap
 ```
-# install dependencies, if needed
 sudo apt update
 sudo apt install lz4 -y
 ```
