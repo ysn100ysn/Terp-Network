@@ -92,5 +92,6 @@ sudo journalctl -u terpd -f --no-hostname -o cat
 ## log kontrolü
 ```
 sudo journalctl -u terpd -f --no-hostname -o cat
+```
 
 
