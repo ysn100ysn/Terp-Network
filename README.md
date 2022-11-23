@@ -71,7 +71,7 @@ dc den faucet terpx ve persyx  alıyoruz.
 validatör ve cüzdan adınızı xxxxxxx olan yere yazın
 ```
 terpd tx staking create-validator \
---amount=1000000uterpx \
+--amount=9000000uterpx \
 --pubkey=$(terpd tendermint show-validator) \
 --moniker=xxxxxxx \
 --chain-id=athena-2 \
